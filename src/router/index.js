@@ -30,12 +30,13 @@ import PrivacyPolicy from "../components/pages/PrivacyPolicy";
 import TermsCondition from "../components/pages/TermsCondition";
 
 const routes = [
-  { path: "/", component: BankingPaymentPage },
-  { path: "/loan-providers", component: LoanProvidersPage },
-  { path: "/digital-banking", component: DigitalBankingPage },
-  { path: "/financial-services", component: FinancialServicesPage },
-  { path: "/bankers-entrepreneurs", component: BankersEntrepreneursPage },
-  { path: "/social-finance", component: SocialFinancePage },
+  { path: "/", component: LoanProvidersPage },
+  //{ path: "/", component: BankingPaymentPage },
+  //{ path: "/loan-providers", component: LoanProvidersPage },
+  //{ path: "/digital-banking", component: DigitalBankingPage },
+  //{ path: "/financial-services", component: FinancialServicesPage },
+  //{ path: "/bankers-entrepreneurs", component: BankersEntrepreneursPage },
+  //{ path: "/social-finance", component: SocialFinancePage },
   { path: "/currency-transfer", component: CurrencyTransferPage },
   { path: "/about-us", component: AboutUsPage },
   { path: "/about-two", component: AboutTwoPage },

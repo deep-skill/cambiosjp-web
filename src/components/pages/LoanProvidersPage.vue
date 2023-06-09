@@ -2,7 +2,7 @@
     <div>
         <Navbar />
         <MainBanner />
-        <Featured />
+        <!--<Featured />
         <HowItWorks />
         <Services />
         <ServicesTwo />
@@ -17,7 +17,7 @@
         <Partner />
         <AppDownload />
         <Blog />
-        <AccountCreate />
+        <AccountCreate />-->
         <Footer />
     </div>
 </template>
