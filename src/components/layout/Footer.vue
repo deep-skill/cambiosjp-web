@@ -6,63 +6,61 @@
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget">
                             <div class="logo">
-                                <router-link to="/"><img src="../../assets/images/black-logo.png" alt="logo"></router-link>
-                                <p>Quis ipsum suspendisse ultrices gravida commodo. Risus commodo veliliee vel viverra maecenas accumsan lacus vel facilisis.</p>
+                                <router-link to="/"><img src="../../assets/images/black-cambiosjp-logo.png" alt="logo"></router-link>
+                                <p>Casa digital de compra y venta de dólares.<br/>
+                                   Tipo de cambio justo, operaciones rápidas y seguras.<br/>
+                                   Nº Reg SBS: 00555-2020</p>
                             </div>
 
                             <ul class="social-links">
                                 <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.twitter.com/" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget pl-5">
-                            <h3>Company</h3>
+                            <h3>Empresa</h3>
 
                             <ul class="list">
-                                <li><router-link to="/about-us">About Us</router-link></li>
-                                <li><router-link to="/features-1">Services</router-link></li>
-                                <li><router-link to="/features-2">Features</router-link></li>
-                                <li><router-link to="/pricing">Our Pricing</router-link></li>
-                                <li><router-link to="/blog-1">Latest News</router-link></li>
+                                <li><router-link to="/about-us">Nosotros</router-link></li>
+                                <li><router-link to="/pricing">¿cómo funciona?</router-link></li>
+                                <li><router-link to="/blog-1">Blog</router-link></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget">
-                            <h3>Support</h3>
+                            <h3>Soporte</h3>
 
                             <ul class="list">
-                                <li><router-link to="/faq">FAQ's</router-link></li>
-                                <li><router-link to="/privacy-policy">Privacy Policy</router-link></li>
-                                <li><router-link to="/terms-condition">Terms & Condition</router-link></li>
-                                <li><router-link to="/#">Community</router-link></li>
-                                <li><router-link to="/contact">Contact Us</router-link></li>
+                                <li><router-link to="/faq">Preguntas frecuentes</router-link></li>
+                                <li><router-link to="/privacy-policy">Políticas de privacidad</router-link></li>
+                                <li><router-link to="/terms-condition">Términos y condiciones</router-link></li>
+                                <li><router-link to="/contact">Contáctanos</router-link></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="single-footer-widget">
-                            <h3>Address</h3>
+                            <h3>Dirección</h3>
 
                             <ul class="footer-contact-info">
-                                <li><span>Location:</span> 27 Division St, New York, NY 10002, USA</li>
-                                <li><span>Email:</span> <a href="mailto:hello@vibion.com">hello@vibion.com</a></li>
-                                <li><span>Phone:</span> <a href="tel:+321984754">+ (321) 984 754</a></li>
-                                <li><span>Fax:</span> <a href="tel:+12129876543">+1-212-9876543</a></li>
+                                <li><span>Ubicación:</span> Av. Velasco Astete 3339, Santiago de Surco, Lima, Perú</li>
+                                <li><span>Correo electrónico:</span> <a href="mailto:contacto@cambiosjp.com">contacto@cambiosjp.com</a></li>
+                                <li><span>Celular:</span> <a href="tel:+51993863137">+ (51) 993 863 137</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
                 <div class="copyright-area">
-                    <p>&copy; {{currentYear}} Vibion. All rights reserved <a href="https://envytheme.com/" target="_blank">EnvyTheme.com</a></p>
+                    <p>&copy; {{currentYear}} Deep Skill Software Factory. Todos los derechos reservados <a href="https://deepskill.space/" target="_blank">www.deepskill.space</a></p>
                 </div>
             </div>
 
