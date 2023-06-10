@@ -4,8 +4,8 @@
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <router-link class="navbar-brand" to="/">
-                        <img src="../../assets/images/logo.png" alt="image">
-                        <img src="../../assets/images/black-logo.png" alt="image">
+                        <img src="../../assets/images/cambiosjp-logo.png" alt="image">
+                        <img src="../../assets/images/black-cambiosjp-logo.png" alt="image">
                     </router-link>
 
                     <div 
@@ -23,145 +23,48 @@
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
-                                    Home <i class="fas fa-chevron-down"></i>
+                                    Inicio
                                 </a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <router-link to="/" class="nav-link">
-                                            Banking & Payment Processing
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/loan-providers" class="nav-link">
-                                            Loan Providers
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/digital-banking" class="nav-link">
-                                            Digital Banking
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/financial-services" class="nav-link">
-                                            Financial Service Provider
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/bankers-entrepreneurs" class="nav-link">
-                                            Bankers & Entrepreneurs
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/social-finance" class="nav-link">
-                                            Social Finance Agency
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/currency-transfer" class="nav-link">
-                                            Currency Transfer Provider
-                                        </router-link>
-                                    </li>
-                                </ul>
                             </li>
                             <li class="nav-item">
                                 <router-link to="/about-us" class="nav-link">
-                                    About Us
+                                    ¿Cómo funciona?
+                                </router-link>
+                            </li>
+                            <li class="nav-item">
+                                <router-link to="/about-us" class="nav-link">
+                                    Nosotros
                                 </router-link>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
-                                    Features <i class="fas fa-chevron-down"></i>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <router-link to="/features-1" class="nav-link">
-                                            Features Style One
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/features-2" class="nav-link">
-                                            Features Style Two
-                                        </router-link>
-                                    </li>
-                                </ul>
-                            </li>
- 
-                            <li class="nav-item">
-                                <a href="#" class="nav-link">
-                                    Pages <i class="fas fa-chevron-down"></i>
+                                    Ayuda <i class="fas fa-chevron-down"></i>
                                 </a>
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <router-link to="/about-us" class="nav-link">
-                                            About Us
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="#" class="nav-link">
-                                            Features <i class="fas fa-chevron-down"></i>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <router-link to="/features-1" class="nav-link">
-                                                    Features Style One
-                                                </router-link>
-                                            </li>
-                                            <li class="nav-item">
-                                                <router-link to="/features-2" class="nav-link">
-                                                    Features Style Two
-                                                </router-link>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/team" class="nav-link">
-                                            Team
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/pricing" class="nav-link">
-                                            Pricing
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/login" class="nav-link">
-                                            Login
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
-                                        <router-link to="/register" class="nav-link">
-                                            Register
-                                        </router-link>
-                                    </li>
-                                    <li class="nav-item">
                                         <router-link to="/faq" class="nav-link">
-                                            FAQ
+                                            Preguntas frecuentes
                                         </router-link>
                                     </li>
-                                    <li class="nav-item">
+                                    <!--<li class="nav-item">
                                         <router-link to="/error" class="nav-link">
                                             Error Page
                                         </router-link>
-                                    </li>
+                                    </li>-->
                                     <li class="nav-item">
                                         <router-link to="/terms-condition" class="nav-link">
-                                            Terms & Conditions
+                                            Términos y condiciones
                                         </router-link>
                                     </li>
                                     <li class="nav-item">
                                         <router-link to="/privacy-policy" class="nav-link">
-                                            Privacy Policy
+                                            Políticas de privacidad
                                         </router-link>
                                     </li>
                                 </ul>
                             </li>
-                            <li class="nav-item">
-                                <router-link to="/pricing" class="nav-link">
-                                    Pricing
-                                </router-link>
-                            </li>
-                            <li class="nav-item">
+                            <!--<li class="nav-item">
                                 <a href="#" class="nav-link">
                                     Blog <i class="fas fa-chevron-down"></i>
                                 </a>
@@ -182,18 +85,18 @@
                                         </router-link>
                                     </li>
                                 </ul>
-                            </li>
+                            </li>-->
                             <li class="nav-item">
                                 <router-link to="/contact" class="nav-link">
-                                    Contact
+                                    Contacto
                                 </router-link>
                             </li>
                         </ul>
                     </div>
                     <div class="others-options">
-                        <router-link to="/login" class="login-btn">
-                            <i class="flaticon-user"></i> Log In
-                        </router-link>
+			<a href="#" class="login-btn">
+		    	    <i class="flaticon-user"></i> Regístrate
+			</a>
                     </div>
                 </nav>
             </div>
