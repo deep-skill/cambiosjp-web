@@ -22,19 +22,25 @@
                     <div class="collapse navbar-collapse" :class="{ show: active }">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <router-link to="/" class="nav-link">
                                     Inicio
-                                </a>
+                                </router-link>
                             </li>
                             <li class="nav-item">
-                                <router-link to="/about-us" class="nav-link">
+                                <a href="#" class="nav-link">
                                     ¿Cómo funciona?
-                                </router-link>
+                                </a>
+                                <!--<router-link to="/about-us" class="nav-link">
+                                    ¿Cómo funciona?
+                                </router-link>-->
                             </li>
                             <li class="nav-item">
-                                <router-link to="/about-us" class="nav-link">
+                                <a href="#" class="nav-link">
                                     Nosotros
-                                </router-link>
+                                </a>
+                                <!--<router-link to="/about-us" class="nav-link">
+                                    Nosotros
+                                </router-link>-->
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
@@ -94,7 +100,7 @@
                         </ul>
                     </div>
                     <div class="others-options">
-			<a href="#" class="login-btn">
+			<a href="https://forms.gle/no9u9SFdKFLmoHJo7" class="login-btn">
 		    	    <i class="flaticon-user"></i> Regístrate
 			</a>
                     </div>

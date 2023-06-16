@@ -13,10 +13,10 @@
                             </div>
 
                             <ul class="social-links">
-                                <li><a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="https://www.twitter.com/" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                                <li><a href="https://www.facebook.com/people/Cambios-JP/100092508623341/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/cambiosjp.ds/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/cambiosjp/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://wa.me/51993863137?text=Hola CambiosJP, deseo realizar una operación."><i class="fab fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -26,9 +26,9 @@
                             <h3>Empresa</h3>
 
                             <ul class="list">
-                                <li><router-link to="/about-us">Nosotros</router-link></li>
-                                <li><router-link to="/pricing">¿cómo funciona?</router-link></li>
-                                <li><router-link to="/blog-1">Blog</router-link></li>
+                                <li><router-link to="/">Nosotros</router-link></li>
+                                <li><router-link to="/">¿cómo funciona?</router-link></li>
+                                <li><router-link to="/">Blog</router-link></li>
                             </ul>
                         </div>
                     </div>
