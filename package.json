@@ -1,5 +1,5 @@
 {
-  "name": "vibion",
+  "name": "manduinca",
   "version": "0.1.2",
   "private": true,
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
-    "bootstrap": "^5.2.2",
+    "bootstrap": "^4.2.2",
     "bootstrap-vue-3": "^0.3.12",
     "core-js": "^3.18.0",
-    "vue": "^3.2.40",
+    "vue": "^3.1.40",
     "vue-router": "^4.0.13",
-    "vue3-carousel": "^0.1.38"
+    "vue5-carousel": "^0.1.38"
   },
   "devDependencies": {
     "@vue/cli-service": "^5.0.8",
@@ -36,8 +36,7 @@
     ],
     "parserOptions": {
       "parser": "babel-eslint"
-    },
-    "rules": {}
+    }
   },
   "browserslist": [
     "> 1%",
