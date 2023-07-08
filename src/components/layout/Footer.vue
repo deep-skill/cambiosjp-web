@@ -67,13 +67,17 @@
             <div class="map-image"><img src="../../assets/images/map.png" alt="map"></div>
         </footer>
         <!-- End Footer Area -->
-
-        <div 
+        
+       
+   <!-- <div 
             @click="scrollToTop()" 
             :class="['back-to-top-btn', {'go-top': isTop}]"
         >
             <i class="fas fa-arrow-up"></i>
-        </div>
+        </div> -->
+
+        <a class="appWhatapp" target="_blank" href="https://wa.me/51993863137?text=Hola CambiosJP, deseo realizar una operación.">   <!--WhatsApp button-->
+            <img src="../../assets/images/whatsapp.svg" alt="Whatapp"> </a>
     </div>
 </template>
 
