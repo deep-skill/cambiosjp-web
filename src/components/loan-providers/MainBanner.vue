@@ -99,14 +99,14 @@
                 else {
                     this.selectedReceivedMoney = "Dólares";
                     this.receivedValue = this.round(this.sentValue / this.sellExchangeRate);
-                    this.saved = this.round(this.receivedValue - this.sentValue / this.bankSellExchangeRate);
+                    this.saved = this.round(this.receivedValue * this.bankSellExchangeRate - this.sentValue);
                 }
             },
             changeReceivedMoney() {
                 if (this.selectedReceivedMoney === "Dólares") {
                     this.selectedSentMoney = "Soles";
-                    this.sentValue = this.receivedValue * this.sellExchangeRate;
-                    this.saved = this.round(this.receivedValue - this.sentValue / this.bankSellExchangeRate);
+                    this.sentValue = this.round(this.receivedValue * this.sellExchangeRate);
+                    this.saved = this.round(this.receivedValue * this.bankSellExchangeRate - this.sentValue);
                 }
                 else {
                     this.selectedSentMoney = "Dólares";
