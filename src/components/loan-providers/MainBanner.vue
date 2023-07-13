@@ -20,7 +20,7 @@
                     <div class="form-group">
                     <label>Envías</label>
                     <div class="money-transfer-field">
-                        <input type="text" class="form-control" autocomplete="off" v-model="sentValue">
+                        <input type="number" class="form-control" autocomplete="off" v-model="sentValue">
 
                         <div class="amount-currency-select">
                         <select v-model="selectedSentMoney" @change="changeSentMoney()">
@@ -40,7 +40,7 @@
                     <div class="form-group">
                     <label>Recibes</label>
                     <div class="money-transfer-field">
-                        <input type="text" class="form-control" autocomplete="off" v-model="receivedValue">
+                        <input type="number" class="form-control" autocomplete="off" v-model="receivedValue">
 
                         <div class="amount-currency-select">
                         <select v-model="selectedReceivedMoney" @change="changeReceivedMoney()">
