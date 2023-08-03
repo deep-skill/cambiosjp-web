@@ -2,8 +2,8 @@
     <div class="page-title-area item-bg2">
         <div class="container">
             <div class="page-title-content">
-                <h2>Privacy Policy</h2>
-                <p>Vibion privacy policy</p>
+                <h2>Política de privacidad de datos</h2>
+                <p></p>
             </div>
         </div>
     </div>
