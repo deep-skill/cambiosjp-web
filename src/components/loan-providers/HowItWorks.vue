@@ -2,65 +2,50 @@
     <div class="how-it-works-area ptb-70">
         <div class="container">
             <div class="section-title">
-                <h2>How It Works</h2>
+                <h2>¿Cómo Funciona?</h2>
                 <div class="bar"></div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Compra o vende tus dólares en 4 simples pasos, en cuestión de minutos con el mejor tipo de cambio.</p>
             </div>
 
             <div class="row">
-                <div class="col-lg-4 col-sm-6 col-md-6">
+                <div class="col-lg-3 col-sm-6 col-md-6">
                     <div class="single-how-it-works">
                         <img src="../../assets/images/how-it-works/how-it-works-1.png" alt="image">
 
-                        <h3>1. Register for free</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        <h3>1. Cotiza tu operación</h3>
+                        <p>Verifica el tipo de cambio en tiempo real desde la calculadora de nuestra web.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-sm-6 col-md-6">
+                <div class="col-lg-3 col-sm-6 col-md-6">
                     <div class="single-how-it-works">
                         <img src="../../assets/images/how-it-works/how-it-works-2.png" alt="image">
 
-                        <h3>2. Choose an amount to send</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        <h3>2. Solicita el cambio</h3>
+                        <p>Escribe a nuestro whatsapp y solicita el cambio. Te atenderemos en pocos minutos.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-sm-6 col-md-6">
+                <div class="col-lg-3 col-sm-6 col-md-6">
                     <div class="single-how-it-works">
                         <img src="../../assets/images/how-it-works/how-it-works-3.png" alt="image">
 
-                        <h3>3. Add recipient’s bank details</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        <h3>3. Transfiere a Cambios JP</h3>
+                        <p>Transfiere el monto acordado a nuestra cuenta.</p>
+                        <br>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-sm-6 col-md-6">
+                <div class="col-lg-3 col-sm-6 col-md-6">
                     <div class="single-how-it-works">
                         <img src="../../assets/images/how-it-works/how-it-works-4.png" alt="image">
 
-                        <h3>4. Verify your identity</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        <h3>4. Recibe tu dinero</h3>
+                        <p>Tu dinero será transferido a tu cuenta destino.</p>
+                        <br>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-sm-6 col-md-6">
-                    <div class="single-how-it-works">
-                        <img src="../../assets/images/how-it-works/how-it-works-5.png" alt="image">
-
-                        <h3>5. Pay for your transfer</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-sm-6 col-md-6">
-                    <div class="single-how-it-works">
-                        <img src="../../assets/images/how-it-works/how-it-works-6.png" alt="image">
-
-                        <h3>6. That’s it</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
