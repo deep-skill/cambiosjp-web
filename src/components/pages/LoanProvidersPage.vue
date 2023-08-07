@@ -2,7 +2,7 @@
     <div>
         <Navbar />
         <MainBanner />
-        <!--<Featured />-->
+        <Featured />
         <HowItWorks />
    <!-- <Services />
         <ServicesTwo />

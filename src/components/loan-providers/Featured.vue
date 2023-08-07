@@ -9,10 +9,10 @@
                                 <i class="flaticon-piggy-bank"></i>
                             </div>
 
-                            <h3>Transparent Pricing</h3>
-                            <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
+                            <h3>Precios transparentes</h3>
+                            <p>Te ofrecemos precios claros y sin sorpresas, para que siempre sepas cuánto obtendrás por tu dinero.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                     <!--   <router-link to="/features-1" class="read-more-btn">Read More</router-link>-->
                         </div>
                     </div>
 
@@ -22,10 +22,10 @@
                                 <i class="flaticon-data-encryption"></i>
                             </div>
 
-                            <h3>Fully Encrypted</h3>
-                            <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
+                            <h3>Comodidad</h3>
+                            <p>Cambia dólares en línea desde cualquier lugar con conexión a internet.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                      <!--  <router-link to="/features-1" class="read-more-btn">Read More</router-link>-->
                         </div>
                     </div>
 
@@ -35,10 +35,10 @@
                                 <i class="flaticon-wallet"></i>
                             </div>
 
-                            <h3>Instant Cashout</h3>
-                            <p>Lorem ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
+                            <h3>Rapidez</h3>
+                            <p>Agilidad en línea para cambiar tus dólares. Transacciones rápidas desde cualquier ubicación, sin largas esperas.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                    <!--    <router-link to="/features-1" class="read-more-btn">Read More</router-link> -->
                         </div>
                     </div>
 
@@ -48,10 +48,10 @@
                                 <i class="flaticon-shield"></i>
                             </div>
 
-                            <h3>Safe and Secure</h3>
-                            <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.</p>
+                            <h3>Seguridad</h3>
+                            <p>Cambiamos tus dólares con seguridad y confianza. Transacciones protegidas para tu tranquilidad.</p>
 
-                            <router-link to="/features-1" class="read-more-btn">Read More</router-link>
+                    <!--    <router-link to="/features-1" class="read-more-btn">Read More</router-link> -->
                         </div>
                     </div>
                 </div>
