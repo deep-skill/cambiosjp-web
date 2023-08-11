@@ -16,8 +16,8 @@
         <ReadyToTalk />
         <Partner />
         <AppDownload />
-        <Blog />
-        <AccountCreate />-->
+        <Blog /> -->
+        <AccountCreate />
         <Footer />
     </div>
 </template>

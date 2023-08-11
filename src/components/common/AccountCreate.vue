@@ -2,11 +2,11 @@
     <div class="account-create-area">
         <div class="container">
             <div class="account-create-content">
-                <h2>Apply for an account in minutes</h2>
-                <p>Get your Vibion account today!</p>
-                <router-link to="/contact" class="btn btn-primary">
-                    Get Your Account
-                </router-link>
+                <h2>Solicita tu cambio en minutos</h2>
+                <p>¡Obtenga su cuenta de Cambios JP hoy!</p>
+                <a href="https://forms.gle/no9u9SFdKFLmoHJo7" class="btn btn-primary">
+                    REGÍSTRATE
+                </a>
             </div>
         </div>
     </div>
