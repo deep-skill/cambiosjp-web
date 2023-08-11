@@ -7,9 +7,9 @@
    <!-- <Services />
         <ServicesTwo />
         <ServicesThree />
-        <ServicesFour />
+        <ServicesFour /> -->
         <Comparisons class="bg-f6f4f8" />
-        <FeaturesTwo />
+   <!-- <FeaturesTwo />
         <Invoicing />
         <FunFacts />
         <Feedback />
