@@ -48,12 +48,12 @@
                                 </a>
 
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item">
+                                <!--<li class="nav-item">
                                         <router-link to="/faq" class="nav-link">
                                             Preguntas frecuentes
                                         </router-link>
                                     </li>
-                                    <!--<li class="nav-item">
+                                    <li class="nav-item">
                                         <router-link to="/error" class="nav-link">
                                             Error Page
                                         </router-link>
@@ -91,12 +91,12 @@
                                         </router-link>
                                     </li>
                                 </ul>
-                            </li>-->
+                            </li>
                             <li class="nav-item">
                                 <router-link to="/contact" class="nav-link">
                                     Contacto
                                 </router-link>
-                            </li>
+                            </li>-->
                         </ul>
                     </div>
                     <div class="others-options">
