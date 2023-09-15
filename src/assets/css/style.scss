@@ -2212,45 +2212,59 @@ Comparisons Area CSS
                 }
             }
             tr {
-                &:nth-child(1), &:nth-child(8) {
+                &:nth-child(1) {
                     td {
-                        i {
-                            background-color: #facd60;
+                        &:nth-child(2) {
+                            i {
+                                background-color: #f45271;
+                            }
+                        }
+                        &:nth-child(3), &:nth-child(4), &:nth-child(5) {
+                            i {
+                                background-color: #44cd6f;
+                            }
                         }
                     }
                 }
-                &:nth-child(2), &:nth-child(9) {
+                &:nth-child(2) {
                     td {
-                        i {
-                            background-color: #44cd6f;
+                        &:nth-child(2) {
+                            i {
+                                background-color: #f45271;
+                            }
+                        }
+                        &:nth-child(3), &:nth-child(4), &:nth-child(5) {
+                            i {
+                                background-color: #44cd6f;
+                            }
                         }
                     }
                 }
-                &:nth-child(3), &:nth-child(10) {
+                &:nth-child(3) {
                     td {
-                        i {
-                            background-color: #fd6c28;
+                        &:nth-child(2), &:nth-child(3) {
+                            i {
+                                background-color: #f45271;
+                            }
+                        }
+                        &:nth-child(4), &:nth-child(5) {
+                            i {
+                                background-color: #44cd6f;
+                            }
                         }
                     }
                 }
-                &:nth-child(5), &:nth-child(12) {
+                &:nth-child(4) {
                     td {
-                        i {
-                            background-color: #1ac0c6;
+                        &:nth-child(2), &:nth-child(3), &:nth-child(4) {
+                            i {
+                                background-color: #f45271;
+                            }
                         }
-                    }
-                }
-                &:nth-child(6), &:nth-child(13) {
-                    td {
-                        i {
-                            background-color: #f45271;
-                        }
-                    }
-                }
-                &:nth-child(7), &:nth-child(14) {
-                    td {
-                        i {
-                            background-color: #fd6d27;
+                        &:nth-child(5) {
+                            i {
+                                background-color: #44cd6f;
+                            }
                         }
                     }
                 }

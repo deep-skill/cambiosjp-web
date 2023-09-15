@@ -1816,23 +1816,29 @@ Comparisons Area CSS
 .comparisons-table table tbody td i::before {
   font-size: 8px;
 }
-.comparisons-table table tbody tr:nth-child(1) td i, .comparisons-table table tbody tr:nth-child(8) td i {
-  background-color: #facd60;
-}
-.comparisons-table table tbody tr:nth-child(2) td i, .comparisons-table table tbody tr:nth-child(9) td i {
-  background-color: #44cd6f;
-}
-.comparisons-table table tbody tr:nth-child(3) td i, .comparisons-table table tbody tr:nth-child(10) td i {
-  background-color: #fd6c28;
-}
-.comparisons-table table tbody tr:nth-child(5) td i, .comparisons-table table tbody tr:nth-child(12) td i {
-  background-color: #1ac0c6;
-}
-.comparisons-table table tbody tr:nth-child(6) td i, .comparisons-table table tbody tr:nth-child(13) td i {
+.comparisons-table table tbody tr:nth-child(1) td:nth-child(2) i {
   background-color: #f45271;
 }
-.comparisons-table table tbody tr:nth-child(7) td i, .comparisons-table table tbody tr:nth-child(14) td i {
-  background-color: #fd6d27;
+.comparisons-table table tbody tr:nth-child(1) td:nth-child(3) i, .comparisons-table table tbody tr:nth-child(1) td:nth-child(4) i, .comparisons-table table tbody tr:nth-child(1) td:nth-child(5) i {
+  background-color: #44cd6f;
+}
+.comparisons-table table tbody tr:nth-child(2) td:nth-child(2) i {
+  background-color: #f45271;
+}
+.comparisons-table table tbody tr:nth-child(2) td:nth-child(3) i, .comparisons-table table tbody tr:nth-child(2) td:nth-child(4) i, .comparisons-table table tbody tr:nth-child(2) td:nth-child(5) i {
+  background-color: #44cd6f;
+}
+.comparisons-table table tbody tr:nth-child(3) td:nth-child(2) i, .comparisons-table table tbody tr:nth-child(3) td:nth-child(3) i {
+  background-color: #f45271;
+}
+.comparisons-table table tbody tr:nth-child(3) td:nth-child(4) i, .comparisons-table table tbody tr:nth-child(3) td:nth-child(5) i {
+  background-color: #44cd6f;
+}
+.comparisons-table table tbody tr:nth-child(4) td:nth-child(2) i, .comparisons-table table tbody tr:nth-child(4) td:nth-child(3) i, .comparisons-table table tbody tr:nth-child(4) td:nth-child(4) i {
+  background-color: #f45271;
+}
+.comparisons-table table tbody tr:nth-child(4) td:nth-child(5) i {
+  background-color: #44cd6f;
 }
 
 /*================================================

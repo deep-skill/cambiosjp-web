@@ -16,7 +16,7 @@
                                 <li><a href="https://www.facebook.com/people/Cambios-JP/100092508623341/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="https://www.instagram.com/cambiosjp.ds/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/cambiosjp/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="https://wa.me/51993863137?text=Hola CambiosJP, deseo realizar una operación."><i class="fab fa-whatsapp"></i></a></li>
+                                <li><a href="https://wa.me/51976865136?text=Hola CambiosJP, deseo realizar una operación."><i class="fab fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -53,7 +53,7 @@
                             <ul class="footer-contact-info">
                                 <li><span>Ubicación:</span> Av. Velasco Astete 3339, Santiago de Surco, Lima, Perú</li>
                                 <li><span>Correo electrónico:</span> <a href="mailto:contacto@cambiosjp.com">contacto@cambiosjp.com</a></li>
-                                <li><span>Celular:</span> <a href="tel:+51993863137">+ (51) 993 863 137</a></li>
+                                <li><span>Celular:</span> <a href="tel:+51976865136">+ (51) 976865136</a></li>
                             </ul>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
             <i class="fas fa-arrow-up"></i>
         </div> -->
 
-        <a class="appWhatapp" target="_blank" href="https://wa.me/51993863137?text=Hola CambiosJP, deseo realizar una operación.">   <!--WhatsApp button-->
+        <a class="appWhatapp" target="_blank" href="https://wa.me/51976865136?text=Hola CambiosJP, deseo realizar una operación.">   <!--WhatsApp button-->
             <img src="../../assets/images/whatsapp.svg" alt="Whatapp"> </a>
     </div>
 </template>
